@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body {
+    background-color: green;
+}
+}
+.largesize{
+font-size: 24px
+}
+
+.italic{
+    font-style: italic;
+    font-family: georgia, 'Times New roman', 'Times New Roman', Times, serif;
+}
